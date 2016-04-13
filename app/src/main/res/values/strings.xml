@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleStudyJams</string>
+    <string name="my_photos">my_photos</string>
+    <string name="next">next</string>
+    <string name="album_description">Ablum Description</string>
+    <string name="notify_me">notify me</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="auto_backup_photos">AutoBack</string>
+    <string name="search_photos">SearchPhoto</string>
+</resources>
